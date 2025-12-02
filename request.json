@@ -1,0 +1,6 @@
+{
+  "student_id": "YOUR_STUDENT_ID",
+  "github_repo_url": "https://github.com/yourusername/your-repo-name",
+  "public_key": "-----BEGIN PUBLIC KEY-----\nPASTE_YOUR_ONE_LINE_KEY_HERE\n-----END PUBLIC KEY-----\n"
+}
+
