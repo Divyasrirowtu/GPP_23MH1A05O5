@@ -1,6 +1,17 @@
 {
-  "student_id": "YOUR_STUDENT_ID",
-  "github_repo_url": "https://github.com/yourusername/your-repo-name",
-  "public_key": "-----BEGIN PUBLIC KEY-----\nPASTE_YOUR_ONE_LINE_KEY_HERE\n-----END PUBLIC KEY-----\n"
+  "student_id": "23MH1A05O5",
+  "github_repo_url": "https://github.com/Divyasrirowtu/GPP_23MH1A05O5",
+  "public_key": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAoCz83b09HOC3I5gITeiG
+okBtLrwU8qmMTgVefILplCflZvGFvuaISdGTRMRAPYOTrYK33Qx/AaPJ7aZJBVwd
+8f1e11F4iDa0H4s5U3E1XP7z/uOxd5K3I0clY+UOxyKTPwlSfb6Lq96KeS2XnSpz
+3+xjSITECqfiHUEoEXOG5yFB1cub+B3bdoJAh31BFGvmuzgOGdXDLbd8gNx4gara
+CxB+awUt8R5SfkyvdihC1/Ytl2idpiyxRTTjM7yJvp1YIAr90/qYOG2YfxK2up0w
+Nt8L6BaZwWVNVNnqmiMIbPXTsTDHrK/WLsbyjWwlcIfulOo3hjH8m8VK7ESU31Es
+vAIkRVLWUfUpNFqUl2tQmm99/TuzrPilqCMpklwq0gdkLVwUOOuJYq83jVamJc+o
+b+COEZ8EOITK3qze7JQF5D5oA48mUC83ikNOI658DtQmzN0NWDxs0TFfFUJ5buws
+BK5WQfEdebxaeIiikzPxI0uZCcXG6gVog2ex99n+oM0M0ccyIDvonHYmleUEnj8K
+37tZ5BPwPjzcirSkaQVNsveVp83WRv1Q0WI1CFh8j4LDWfIzrmGo9dOUXvQudWho
+0pY+RO6N8bp/oM96fhSN+aDkUo8fHjn1CUoUpI/WP0ZMLTJhwcyx3SnK2yXsRzCv
+PiqaZBI4ikRB6vCh6mf5jAECAwEAAQ==\n-----END PUBLIC KEY-----\n"
 }
 

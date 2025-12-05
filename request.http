@@ -1,0 +1,6 @@
+POST http://localhost:8000/decrypt-seed
+Content-Type: application/json
+
+{
+  "encrypted_seed": "<<paste encrypted_seed.txt content here>>"
+}
